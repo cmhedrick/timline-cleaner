@@ -106,3 +106,6 @@ venv.bak/
 # local stuff
 .vscode
 config.py
+
+# twitter archive json
+tweet.json
